@@ -16,3 +16,7 @@
  + custom colors  
 * Country & Segment slicer (hierarchical)  
 ![]![pbi_bar_v2](https://github.com/user-attachments/assets/9f318d89-28de-457a-98b3-1726c1cdc19a)
+
+### 23 Aug – Basic DFG (viewed→started→completed)
+![]<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/a7208491-8255-4373-8c8d-6ffbeb973376" />
+
